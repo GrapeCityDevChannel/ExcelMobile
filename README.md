@@ -1,5 +1,7 @@
 # SpreadJS Microsoft Excel Mobile Clone Sample
 
+[![Spread.Sheets Spreadsheet Application](http://spread.grapecity.com/img/ExcelDemo.png)]
+
 This is a web application built with the GrapeCity Spread.Sheets JavaScript Spreadsheet component. It mimics much of the functionality and UI you see in with Microsoft Windows Store Excel application. This application was built to showcase the features and extensibility you will find in Spread.Sheets. 
 
 Notes: 
